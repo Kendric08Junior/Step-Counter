@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Steper Counter</string>
+    <string name="step_counter">Step Counter</string>
+    <string name="steps">Steps</string>
+    <string name="enter_number_of_steps">Enter number of steps</string>
+    <string name="enter">Enter</string>
+    <string name="how_many_steps_would_you_want_to_walk">How many steps would you want to walk?</string>
+</resources>
